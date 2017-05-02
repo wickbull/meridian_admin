@@ -1,0 +1,6 @@
+echo "# meridian_admin" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/wickbull/meridian_admin.git
+git push -u origin master
